@@ -4,12 +4,23 @@
 ## Task Management App (front-end)
 The frontend code is organized in a Next.js project structure with TypeScript, React, and shad-cn UI libraries. Below is the proposed folder structure for the frontend repository:
 
+## Live App
+
+You can access the live Task Management Application at https://arm-assessment-front-k6x3p.ondigitalocean.app/. Log in using the credentials:
+- **Email**: ```demo@demo.com```
+- **Password**: ```demo123```
 ## Screenshots
+- <video src="https://github.com/user-attachments/assets/8b6ca3a4-e5e0-44b0-b93c-9553de86b2bd" />
 <img width="1437" alt="Screenshot 2025-05-31 at 8 06 16 AM" src="https://github.com/user-attachments/assets/114b4de1-285d-4c51-9ffc-a3e3f05c4d43" />
 <img width="721" alt="Screenshot 2025-05-31 at 8 07 20 AM" src="https://github.com/user-attachments/assets/31ba4351-a3b8-4966-80ea-d21dfd90cc0a" />
 <img width="1423" alt="Screenshot 2025-05-31 at 8 07 54 AM" src="https://github.com/user-attachments/assets/9678589e-e203-4c63-a3a2-2a1f0a8a1b05" />
-https://github.com/user-attachments/assets/8b6ca3a4-e5e0-44b0-b93c-9553de86b2bd
-
+<img width="400" src="https://github.com/user-attachments/assets/7506afe6-a34b-41fb-98be-75c583f3bfc5" />
+<img width="400" src="https://github.com/user-attachments/assets/849072c1-4f60-4747-982f-ccc82535e0da" />
+<img width="400" src="https://github.com/user-attachments/assets/93467654-0433-40e9-ab85-3b4b837ba68f" />
+<img width="400" src="https://github.com/user-attachments/assets/f3724501-fc6d-4d84-837f-04d57f9cbe59" />
+<img width="400" src="https://github.com/user-attachments/assets/56b666dd-96a3-4e5e-85db-e295ff817762" />
+<img width="400" src="https://github.com/user-attachments/assets/ea96cf99-b424-4ade-b4c9-a81b031c729c" />
+<img width="400" src="https://github.com/user-attachments/assets/bfda1774-f396-4d7a-bf99-b308905e243a" />
 
 
 ## Features
